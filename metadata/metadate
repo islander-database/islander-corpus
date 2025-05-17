@@ -1,0 +1,26 @@
+- id: 00001
+  title: 豆腐腦與重水的邂逅
+  author: 胡語居士
+  date: 2023-09-12
+  created: 2025-05-17
+  tags: [飲食記憶, 化學知識, 唐魯孫, 豆腐腦, 文化筆記]
+  license: CC-BY-NC-SA-4.0
+  filepath: texts/文化筆記/00001_豆腐腦與重水的邂逅.md
+
+- id: 00002
+  title: 白腹秧雞之死
+  author: Queena
+  date: 2024-04-30
+  created: 2025-05-17
+  tags: [諮商書寫, 動物隱喻, 情緒勞動, 家庭壓力, 台灣鳥類, 女性生命史]
+  license: CC-BY-NC-SA-4.0
+  filepath: texts/文化筆記/00002_白腹秧雞之死.md
+
+- id: 00003
+  title: 南粥北麵──吃餃子
+  author: Queena
+  date: 2020-08-07
+  created: 2025-05-17
+  tags: [飲食記憶, 中台文化差異, 餃子, 食物與家庭, 飲食社會學]
+  license: CC-BY-NC-SA-4.0
+  filepath: texts/文化筆記/00003_南粥北麵──吃餃子.md
