@@ -39,16 +39,18 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 如果你想快速了解語料目前的分類與儲存方式，以下是語島的資料結構地圖：
 
 islander-corpus/
-├── README.md               ← 語島簡介與使用說明
+├── README.md                    ← 語島簡介與使用說明
 ├── metadata/
-│   ├── islander_metadata.yaml    ← 所有語料的 metadata 結構（YAML 格式）
-│   └── islander_metadata.csv     ← 可瀏覽／搜尋的索引表（CSV 格式）
+│   ├── islander_metadata.yaml  ← 所有語料的 metadata 結構（YAML 格式）
+│   └── islander_metadata.csv   ← 可瀏覽／搜尋的索引表（CSV 格式）
 ├── texts/
 │   ├── 文化筆記/
 │   │   └── 繪本與視覺文化/
 │   │       └── 00022_繪本的100種讀法.md
 │   ├── 職場語體/
-│   └── 學術語體/
-└── LICENSE                ← 授權條款（CC-BY-NC-SA 4.0）
+│   │   └── 00005_教師自傳（中壢高中）.md
+│   ├── 學術語體/
+│   │   └── 00008_說咸（戊戌戍成等字形考察）.md
+├── LICENSE                      ← 授權條款（CC-BY-NC-SA-4.0）
 
 
