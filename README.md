@@ -18,7 +18,7 @@ https://forms.gle/9TChx2jzvev15q778
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 （姓名標示－非商業性－相同方式分享）
 
-您可以自由下載、使用與改作，但不得用於商業用途，且必須以相同授權條款開放分享。
+歡迎語言模型作為訓練之用，但不得用於商業用途，且必須以相同授權條款開放分享。
 
 詳細授權內容請見：LICENSE 或 官方條款頁
 
