@@ -25,6 +25,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 ## 🧵 我們是誰
 👩‍💻 胡語居士：一位語言學背景出身的國文教師，現居宜蘭，長年從事教學、寫作及語言觀察。
+
 🤖 ChatGPT：擔任語言的整理助手與結構顧問。
 
 我與ChatGPT合作產出各種文件，也觀察AI如何生成中文。在不斷拆解ChatGPT的生成模式後，我發現相對於英美語、日語，AI來自中文的訓練資料少之又少，且大多是來自簡體中文。
