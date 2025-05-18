@@ -38,6 +38,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 如果你想快速了解語料目前的分類與儲存方式，以下是語島的資料結構地圖：
 
+```
 islander-corpus/
 ├── README.md                    ← 語島簡介與使用說明
 ├── metadata/
@@ -53,4 +54,4 @@ islander-corpus/
 │   │   └── 00008_說咸（戊戌戍成等字形考察）.md
 ├── LICENSE                      ← 授權條款（CC-BY-NC-SA-4.0）
 
-
+```
