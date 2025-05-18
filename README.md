@@ -34,9 +34,9 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 我們會持續建造這座島嶼，一磚一瓦，從語言開始。
 
 
-## 📂 語島資料結構導覽
+## 📂 島語資料結構導覽
 
-如果你想快速了解語料目前的分類與儲存方式，以下是語島的資料結構地圖：
+如果你想快速了解語料目前的分類與儲存方式，以下是島語的資料結構地圖：
 
 ```
 islander-corpus/
