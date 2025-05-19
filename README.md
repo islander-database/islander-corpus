@@ -34,6 +34,9 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 我們會持續建造這座島嶼，一磚一瓦，從語言開始。
 
 
+## 📚 [常見問答 Q&A](./Q%20%26%20A.md)
+
+
 ## 📂 島語資料結構導覽
 
 如果你想快速了解語料目前的分類與儲存方式，以下是島語的資料結構地圖：
