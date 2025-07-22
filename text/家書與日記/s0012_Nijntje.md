@@ -1,5 +1,5 @@
 ---
-title: T605: Nijntje
+title: Nijntje
 author: seantyh
 date: 2024-09-22
 created: 2025-07-22

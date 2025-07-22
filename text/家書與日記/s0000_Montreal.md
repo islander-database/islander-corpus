@@ -1,5 +1,5 @@
 ---
-title: T881: Montreal
+title: Montreal
 author: seantyh
 date: 2025-06-25
 created: 2025-07-22

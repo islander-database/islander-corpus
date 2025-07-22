@@ -1,5 +1,5 @@
 ---
-title: T74: Easter Monday
+title: Easter Monday
 author: seantyh
 date: 2023-04-10
 created: 2025-07-22

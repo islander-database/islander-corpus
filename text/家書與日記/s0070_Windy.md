@@ -1,5 +1,5 @@
 ---
-title: T12: Windy
+title: Windy
 author: seantyh
 date: 2023-02-07
 created: 2025-07-22

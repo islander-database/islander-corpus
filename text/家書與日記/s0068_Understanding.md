@@ -1,5 +1,5 @@
 ---
-title: T22: Understanding & Accuracy
+title: Understanding & Accuracy
 author: seantyh
 date: 2023-02-17
 created: 2025-07-22

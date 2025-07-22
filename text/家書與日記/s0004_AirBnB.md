@@ -1,5 +1,5 @@
 ---
-title: T748: AirBnB
+title: AirBnB
 author: seantyh
 date: 2025-02-12
 created: 2025-07-22

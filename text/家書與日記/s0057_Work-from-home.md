@@ -1,5 +1,5 @@
 ---
-title: T85: Work from home
+title: Work from home
 author: seantyh
 date: 2023-04-21
 created: 2025-07-22
