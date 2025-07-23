@@ -31,7 +31,7 @@
 
 - 建檔。檔名建議為 你的語料名稱.md（務必記得有.md結尾)
 
-- 語料格式請參考本站範本語料檔：metadata/template
+- 語料格式請參考本站範本語料檔：[metadata/template](./metadata/template)
 
 
 **✍️ 步驟四：在語料最上方加上 YAML 說明欄位**
