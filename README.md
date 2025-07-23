@@ -10,11 +10,11 @@
 ## 🤝 如何參與
 - 投稿給我：填寫下方的「語料投稿表單」（含授權同意），並將你的稿件利用表單送出。
 
- https://forms.gle/9TChx2jzvev15q778
+  https://forms.gle/9TChx2jzvev15q778
 
 - 加入協作：建立你的Github帳號，上傳語料並加入這個計畫！
 
- [了解如何開始](./CONTRIBUTING.md)
+   [了解如何開始](./CONTRIBUTING.md)
 
 
 
