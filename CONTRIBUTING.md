@@ -39,7 +39,7 @@
 🧾 YAML 區塊，是用來標記這篇語料的背景資料（誰說的、什麼時候、用在哪裡）。
 這利於搜尋、分類、分析語料，也方便自動整理成資料庫。
 
-- YAML格式請參考：
+- YAML格式請參考：templat(./metadata/template)
  
 - 貼好後，拉到頁面下方，點選 Commit new file
 
