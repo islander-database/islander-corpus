@@ -1,4 +1,4 @@
-## 🪴 成為島人語庫的協作者（GitHub 語料Pull Request圖解）
+## 🪴 成為島人語庫的協作者（GitHub 語料 Pull Request 圖解）
 
 以下是操作教學，你可以一步步把語料上傳到「島人語庫」。不需要寫程式，五個步驟就能完成！
 
@@ -41,7 +41,7 @@
 
 - YAML格式請參考：[metadata/templat](./metadata/templat)
  
-- 貼好後，拉到頁面下方，點選 Commit new file
+- 語料加上YAML說明欄位後，拉到頁面下方，點選 Commit new file
 
 **📬 步驟五：送出 Pull Request（投稿）**
 
