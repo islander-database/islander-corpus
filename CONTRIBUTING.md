@@ -31,7 +31,7 @@
 
 - 建檔。檔名建議為 你的語料名稱.md（務必記得有.md結尾)
 
-- 語料格式請參考本站範本語料檔：[metadata/templat](./metadata/templat)
+- 語料注意事項請參考：[metadata/rule](.metadata/rule)
 
 
 **✍️ 步驟四：在語料最上方加上 YAML 說明欄位**
@@ -39,7 +39,7 @@
 🧾 YAML 區塊，是用來標記這篇語料的背景資料（誰說的、什麼時候、用在哪裡）。
 這利於搜尋、分類、分析語料，也方便自動整理成資料庫。
 
-- YAML格式請參考：templat(./metadata/template)
+- YAML格式請參考：[metadata/templat](./metadata/templat)
  
 - 貼好後，拉到頁面下方，點選 Commit new file
 
