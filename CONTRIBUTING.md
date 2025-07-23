@@ -17,7 +17,7 @@
 - 回到島人語庫：https://github.com/islander-database/islander-corpus
 
 你會看到像這樣的畫面 ↓
-<img width="1707" height="843" alt="螢幕擷取畫面 2025-07-23 085804" src="https://github.com/user-attachments/assets/3a0e204a-e74d-41bd-8dd3-26d93b8aa663" />
+<img width="1707" height="843" alt="螢幕擷取畫面 2025-07-23 085804" src="https://github.com/user-attachments/assets/9424f56a-b20c-48a8-964b-78d6ce3c404c" />
 
 - 點選右上角的 Fork，這代表把語庫複製一份到你的 GitHub 帳號下（你自己的副本）。
 
@@ -57,5 +57,6 @@
 
 
 **✅ 接下來會發生什麼？**
+
 我們會審核你送的語料，通過後就會合併進語庫，變成語料庫的一部分！
 
