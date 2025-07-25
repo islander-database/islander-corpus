@@ -1,0 +1,28 @@
+胡語居士:
+  author_id: A001
+  gender: 女
+  birth_year: null
+  birth_place: null
+  education: null
+  occupation: 語文教師
+  notes: 語島語庫主編，專長為語言書寫與情感表達
+
+張三:
+  author_id: A002
+  gender: 男
+  birth_year: null
+  birth_place: null
+  education: null
+  occupation: null
+  notes: 由胡語居士邀稿之投稿者，風格幽默
+
+李四:
+  author_id: A003
+  gender: 女
+  birth_year: null
+  birth_place: null
+  education: null
+  occupation: null
+  notes: 高中生投稿，語感具青春性與反身書寫特徵
+
+（以下依據你語料中的作者陸續擴充）
