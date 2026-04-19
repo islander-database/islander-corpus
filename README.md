@@ -50,17 +50,37 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 ```
 islander-corpus/
 ├── README.md                    ← 語島簡介與使用說明
+├── CONTRIBUTING.md              ← 投稿與協作指引
+├── Q & A.md                     ← 常見問答
+├── LICENSE.md                   ← 授權條款（CC-BY-NC-SA-4.0）
 ├── metadata/
-│   ├── islander_metadata.yaml  ← 所有語料的 metadata 結構（YAML 格式）
-│   └── islander_metadata.csv   ← 可瀏覽／搜尋的索引表（CSV 格式）
-├── texts/
-│   ├── 文化筆記/
-│   │   └── 繪本與視覺文化/
-│   │       └── 00022_繪本的100種讀法.md
-│   ├── 職場語體/
-│   │   └── 00005_教師自傳（中壢高中）.md
-│   ├── 學術語體/
-│   │   └── 00008_說咸（戊戌戍成等字形考察）.md
-├── LICENSE                      ← 授權條款（CC-BY-NC-SA-4.0）
-
+│   ├── islander_metadata.yaml  ← 所有語料的中央索引（YAML 格式）
+│   ├── islander_metadata.csv   ← 可瀏覽／搜尋的索引表（CSV 格式）
+│   └── authors.yaml            ← 作者資訊與授權狀態
+├── scripts/
+│   └── sync_metadata.py        ← 從各檔案 front-matter 產生中央索引的腳本
+└── text/
+    ├── 家書與日記/
+    ├── 文化筆記/
+    │   ├── 飲食文化/
+    │   └── 繪本與視覺文化/
+    ├── 學術語體/
+    ├── 教學教材/
+    ├── 教室日誌/
+    ├── 旅行手札/
+    ├── 職場應用/
+    ├── 職場書寫/
+    ├── 身體書寫/
+    ├── 信件/
+    ├── 家族書寫/
+    ├── 小說創作/
+    └── 消費經驗/
 ```
+
+### 📝 檔案與 metadata 的關係
+
+每一篇語料是一個 `.md` 檔，檔名格式為 `{編號}_{標題}.md`。
+
+每個檔案開頭都帶有 **YAML front-matter**（以 `---` 包覆的結構化欄位），記錄該篇的 title、author、date、tags、license 等資訊。front-matter 是該篇語料 metadata 的**單一真實來源**（single source of truth），直接編輯檔案就是編輯 metadata。
+
+`metadata/` 底下的中央索引（YAML 和 CSV）是**由各檔案 front-matter 聚合產生的彙整**，方便整體查詢、篩選與瀏覽。每當有新的語料加入或既有檔案 front-matter 變動，執行 `python3 scripts/sync_metadata.py` 即可重建中央索引，保證兩者一致。
