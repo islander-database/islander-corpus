@@ -152,7 +152,11 @@ def main():
     files = sorted(TEXT_DIR.rglob("*.md"))
     entries = []
     for fp in files:
-        e = build_entry(fp)
+        try:
+            e = build_entry(fp)
+        except OSError as err:
+            print(f"⚠️ 跳過（無法讀取）：{fp.relative_to(ROOT)} → {err}", file=sys.stderr)
+            continue
         if e:
             entries.append(e)
 

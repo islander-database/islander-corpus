@@ -2412,15 +2412,6 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00267_血壓200的K生與開書考試.md
   source: Facebook 個人貼文
-- id: "00268"
-  title: 十一月宜蘭還要戴口罩騎車
-  author: 胡語居士
-  date: 2019-11-24
-  created: 2026-04-22
-  tags: ["天氣", "宜蘭", "氣候", "日常生活", "冬衣"]
-  license: CC-BY-NC-SA-4.0
-  filepath: text/家書與日記/00268_十一月宜蘭還要戴口罩騎車.md
-  source: Facebook 個人貼文
 - id: "00269"
   title: 學生拿雞腿砸老師
   author: 胡語居士
@@ -3672,16 +3663,6 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00407_書法課教室飄來魚市場的味道.md
   source: Facebook 個人貼文
-- id: "00408"
-  title: 一次助人的經驗
-  author: 忠
-  date: 2026-04-28
-  created: 2026-05-02
-  tags: ["車禍", "社會冷漠", "助人", "個人敘事"]
-  license: CC-BY-NC-SA-4.0
-  filepath: text/家書與日記/00408_一次助人的經驗.md
-  source: Google 表單投稿
-  notes: 第一人稱敘事，記述騎車目擊休旅車闖紅燈撞傷機車騎士後下車救助、聯絡警消、應變止血並追蹤關懷的完整經過，結尾反思社會冷漠與助人意義。
 - id: "00409"
   title: 國中初任導師的注意事項——新生訓練篇
   author: 裘旼旼
@@ -3777,6 +3758,106 @@
   filepath: text/文化筆記/00418_試譯-袁枚〈答蕺園論詩書〉.md
   source: https://medium.com/@ahahing/%E8%A9%A6%E8%AD%AF-%E8%A2%81%E6%9E%9A-%E7%AD%94%E8%95%BA%E5%9C%92%E8%AB%96%E8%A9%A9%E6%9B%B8-23cf472cf43f
   notes: 原臉書網誌 2019-12-01，後整理上傳至 Medium；含原文及作者白話試譯
+- id: "00419"
+  title: 第一篇 與 日常筆記
+  author: 安安總召
+  date: 2007-08-07
+  created: 2026-05-22
+  tags: ["研究日記", "研究生活", "中醫藥", "圖書館", "Bourdieu", "日常書寫", "工具學習"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00419_第一篇 與 日常筆記.md
+  source: https://r94325005.blogspot.com/2007/08/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00420"
+  title: 太極拳
+  author: 安安總召
+  date: 2010-04-16
+  created: 2026-05-22
+  tags: ["太極拳", "身體感知", "中醫", "田野觀察", "武術", "健保政策", "觸類旁通"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/身體書寫/00420_太極拳.md
+  source: https://r94325005.blogspot.com/2010/04/blog-post_15.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00421"
+  title: 四神湯
+  author: 安安總召
+  date: 2010-05-08
+  created: 2026-05-22
+  tags: ["四神湯", "中藥", "科技與社會", "ANT", "拉圖", "Bourdieu", "飲食文化", "知識社會學"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/飲食文化/00421_四神湯.md
+  source: https://r94325005.blogspot.com/2010/05/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00422"
+  title: 在高雄 黑狗兄
+  author: 安安總召
+  date: 2010-08-29
+  created: 2026-05-22
+  tags: ["高雄", "跑步", "家", "飯桌", "安全感", "流浪狗", "家族書寫"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00422_在高雄 黑狗兄.md
+  source: https://r94325005.blogspot.com/2010/08/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00423"
+  title: 晨行 青島豆漿店
+  author: 安安總召
+  date: 2011-07-11
+  created: 2026-05-22
+  tags: ["早餐", "城市觀察", "豆漿店", "日常書寫", "集體意識", "台北"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00423_晨行 青島豆漿店.md
+  source: https://r94325005.blogspot.com/2011/07/blog-post_10.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00424"
+  title: 巿場
+  author: 安安總召
+  date: 2011-07-12
+  created: 2026-05-22
+  tags: ["菜市場", "城市觀察", "布希亞", "現代性", "日常生活", "台北", "生活觀察"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00424_巿場.md
+  source: https://r94325005.blogspot.com/2011/07/blog-post_11.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00425"
+  title: 《科技、醫療與社會》第1~10期的心得筆記
+  author: 安安總召
+  date: 2011-11-07
+  created: 2026-05-22
+  tags: ["科技與社會", "STS", "醫療社會學", "ANT", "期刊筆記", "知識社會學", "Latour", "Bourdieu"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/學術語體/00425_《科技、醫療與社會》第1~10期的心得筆記.md
+  source: https://r94325005.blogspot.com/2011/11/110.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00426"
+  title: 月光
+  author: 安安總召
+  date: 2012-08-31
+  created: 2026-05-22
+  tags: ["月光", "家族書寫", "飯桌", "寫作", "研究生活", "台北", "日常書寫"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00426_月光.md
+  source: https://r94325005.blogspot.com/2012/08/blog-post_31.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00427"
+  title: 建國啤酒廠餐廳
+  author: 安安總召
+  date: 2012-11-24
+  created: 2026-05-22
+  tags: ["空間分析", "涂爾幹", "Bakhtin", "消費空間", "都市生活", "班雅明", "文化批評"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00427_建國啤酒廠餐廳.md
+  source: https://r94325005.blogspot.com/2012/11/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00428"
+  title: 少年PI
+  author: 安安總召
+  date: 2012-12-25
+  created: 2026-05-22
+  tags: ["少年PI", "電影評論", "信仰", "尼采", "佛法", "生死", "存在主義"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00428_少年PI.md
+  source: https://r94325005.blogspot.com/2012/12/pi.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "s0000"
   title: Montreal
   author: seantyh
