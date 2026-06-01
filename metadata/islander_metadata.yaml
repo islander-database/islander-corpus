@@ -576,15 +576,6 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00062_山東大叔與聲韻學.md
   source: Facebook 個人貼文
-- id: "00063"
-  title: 整理舊信
-  author: 胡語居士
-  date: 2011-02-01
-  created: 2026-04-21
-  tags: ["書信", "過年", "記憶", "友誼", "手寫信", "舊物"]
-  license: CC-BY-NC-SA-4.0
-  filepath: text/家書與日記/00063_整理舊信.md
-  source: Facebook 個人貼文
 - id: "00064"
   title: 四川自助行程規劃
   author: 胡語居士
@@ -2583,15 +2574,6 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00287_補考考卷集體作弊的調查.md
   source: Facebook 個人貼文
-- id: "00288"
-  title: 料理實驗室帶回來的豬心
-  author: 胡語居士
-  date: 2020-08-30
-  created: 2026-04-22
-  tags: ["婚姻", "料理", "豬心", "下水", "夫妻"]
-  license: CC-BY-NC-SA-4.0
-  filepath: text/家族書寫/00288_料理實驗室帶回來的豬心.md
-  source: Facebook 個人貼文
 - id: "00289"
   title: 我其實並不討厭開學
   author: 胡語居士
@@ -3825,7 +3807,7 @@
   created: 2026-05-22
   tags: ["科技與社會", "STS", "醫療社會學", "ANT", "期刊筆記", "知識社會學", "Latour", "Bourdieu"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00425_《科技、醫療與社會》第1~10期的心得筆記.md
+  filepath: text/讀書筆記/00425_《科技、醫療與社會》第1~10期的心得筆記.md
   source: https://r94325005.blogspot.com/2011/11/110.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00426"
@@ -3885,7 +3867,7 @@
   created: 2026-05-23
   tags: ["STS", "科技與社會", "讀書摘要", "意外", "風險治理", "醫療化", "ANT", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00431_[摘要]意外多重奏：STS如何重組真相.md
+  filepath: text/讀書筆記/00431_[摘要]意外多重奏：STS如何重組真相.md
   source: https://r94325005.blogspot.com/2013/01/sts.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00432"
@@ -3895,7 +3877,7 @@
   created: 2026-05-23
   tags: ["機能性食品", "保健食品", "食品社會學", "醫療化", "修辭", "消費", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00432_食品、健康與幸福：定位機能性食品.md
+  filepath: text/讀書筆記/00432_食品、健康與幸福：定位機能性食品.md
   source: https://r94325005.blogspot.com/2013/02/blog-post.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00433"
@@ -3905,7 +3887,7 @@
   created: 2026-05-23
   tags: ["機能性食品", "食品社會學", "醫療化", "消費文化", "學術筆記", "生物技術", "保健食品"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00433_機能性食品：和社會學有啥相關？.md
+  filepath: text/讀書筆記/00433_機能性食品：和社會學有啥相關？.md
   source: https://r94325005.blogspot.com/2013/02/blog-post_20.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00434"
@@ -3915,7 +3897,7 @@
   created: 2026-05-23
   tags: ["機能性食品", "食品社會學", "常民知識", "健康政策", "醫療化", "學術筆記", "飲食文化"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00434_食品健康政策與倫理：機能性食品的常民觀點.md
+  filepath: text/讀書筆記/00434_食品健康政策與倫理：機能性食品的常民觀點.md
   source: https://r94325005.blogspot.com/2013/02/blog-post_8918.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00435"
@@ -3925,7 +3907,7 @@
   created: 2026-05-23
   tags: ["靈芝", "學術史", "道教", "本草學", "中醫", "科學社會學", "符號鬥爭", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00435_[發想] 魏晉至唐之間的靈芝學術鬥爭.md
+  filepath: text/讀書筆記/00435_[發想] 魏晉至唐之間的靈芝學術鬥爭.md
   source: https://r94325005.blogspot.com/2013/02/blog-post_22.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00436"
@@ -3935,7 +3917,7 @@
   created: 2026-05-23
   tags: ["靈芝", "真菌人類學", "學術史", "漢代", "道教", "祥瑞", "本草學", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00436_靈芝文獻相關摘要 (1).md
+  filepath: text/讀書筆記/00436_靈芝文獻相關摘要 (1).md
   source: https://r94325005.blogspot.com/2013/02/1.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00437"
@@ -3945,7 +3927,7 @@
   created: 2026-05-23
   tags: ["砂石", "交通安全", "社會分析", "環境政策", "地方發展", "勞動過程", "公視", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00437_砂石的社會分析相關資訊.md
+  filepath: text/讀書筆記/00437_砂石的社會分析相關資訊.md
   source: https://r94325005.blogspot.com/2013/04/blog-post.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00438"
@@ -3955,7 +3937,7 @@
   created: 2026-05-23
   tags: ["公益彩劵", "公益勸募", "非營利組織", "社會政策", "NGO", "公民社會", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00438_公益彩劵與公益勸募.md
+  filepath: text/讀書筆記/00438_公益彩劵與公益勸募.md
   source: https://r94325005.blogspot.com/2013/04/blog-post_30.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00439"
@@ -3995,7 +3977,7 @@
   created: 2026-05-23
   tags: ["保健食品", "健康食品", "食品產業", "台灣史", "聯合知識庫", "食品社會學", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00442_研究筆記 1960-1980關於保健食品健康食品的新聞整理與觀察.md
+  filepath: text/讀書筆記/00442_研究筆記 1960-1980關於保健食品健康食品的新聞整理與觀察.md
   source: https://r94325005.blogspot.com/2013/08/5365-19601980.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00443"
@@ -4105,7 +4087,7 @@
   created: 2026-05-23
   tags: ["食品", "異化", "保健食品", "STS", "社會學", "批判分析", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00453_21-365 食品與異化.md
+  filepath: text/讀書筆記/00453_21-365 食品與異化.md
   source: https://r94325005.blogspot.com/2013/09/21365.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00454"
@@ -4115,7 +4097,7 @@
   created: 2026-05-23
   tags: ["保健食品", "中藥", "行銷", "訪談記錄", "市場分析", "社會學", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00454_22-365 記一次聊天.md
+  filepath: text/讀書筆記/00454_22-365 記一次聊天.md
   source: https://r94325005.blogspot.com/2013/09/22365.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00455"
@@ -4125,7 +4107,7 @@
   created: 2026-05-25
   tags: ["牛樟芝", "靈芝", "保健食品", "STS", "山林保育", "學術筆記", "產業分析"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00455_23-365 牛樟芝的現象觀察與初步討論.md
+  filepath: text/讀書筆記/00455_23-365 牛樟芝的現象觀察與初步討論.md
   source: https://r94325005.blogspot.com/2013/09/23365.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00456"
@@ -4185,7 +4167,7 @@
   created: 2026-05-25
   tags: ["生技產業", "新藥", "保健食品", "健康食品", "法規", "學術筆記", "市場"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00461_31-365 讀《新藥臨床試驗制度在生技產業政策推動過程中變遷之探討》有感.md
+  filepath: text/讀書筆記/00461_31-365 讀《新藥臨床試驗制度在生技產業政策推動過程中變遷之探討》有感.md
   source: https://r94325005.blogspot.com/2013/10/31365.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00462"
@@ -4195,7 +4177,7 @@
   created: 2026-05-27
   tags: ["疫苗", "生命政治", "STS", "科技與社會", "台灣社會學", "傅柯", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00462_34∕365讀〈權力的技術與技術的權力：台灣疫苗採用的歷程分析〉之札記.md
+  filepath: text/讀書筆記/00462_34∕365讀〈權力的技術與技術的權力：台灣疫苗採用的歷程分析〉之札記.md
   source: https://r94325005.blogspot.com/2013/11/blog-post.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00463"
@@ -4205,7 +4187,7 @@
   created: 2026-05-27
   tags: ["性別", "教育", "高中選組", "量化研究", "台灣社會學", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00463_35∕365讀〈高中生選組行為的原因與結果：性別、信念、教師角色與能力發展〉之札記.md
+  filepath: text/讀書筆記/00463_35∕365讀〈高中生選組行為的原因與結果：性別、信念、教師角色與能力發展〉之札記.md
   source: https://r94325005.blogspot.com/2013/11/35365.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00464"
@@ -4215,7 +4197,7 @@
   created: 2026-05-27
   tags: ["社會學本土化", "延伸個案法", "Burawoy", "社會學方法論", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00464_[筆記] 從Burawoy的延伸個案法出發，思考社會學本土化.md
+  filepath: text/讀書筆記/00464_[筆記] 從Burawoy的延伸個案法出發，思考社會學本土化.md
   source: https://r94325005.blogspot.com/2013/11/burawoy.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）；本文為作者2011年修習社會學方法論課程所撰，2013年11月上傳至部落格
 - id: "00465"
@@ -4225,7 +4207,7 @@
   created: 2026-05-27
   tags: ["社會學本土化", "台灣社會學", "方法論", "學術論述", "教育", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00465_[筆記] 社會學本土化－對觀察架構的觀察與社會學教育.md
+  filepath: text/讀書筆記/00465_[筆記] 社會學本土化－對觀察架構的觀察與社會學教育.md
   source: https://r94325005.blogspot.com/2013/11/blog-post_2.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）；本文原作於2011年7月
 - id: "00466"
@@ -4255,7 +4237,7 @@
   created: 2026-05-27
   tags: ["性別", "身體", "醫療", "保健食品", "美容", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00468_[隨筆]性別身體與醫療（李貞德主編）.md
+  filepath: text/讀書筆記/00468_[隨筆]性別身體與醫療（李貞德主編）.md
   source: https://r94325005.blogspot.com/2013/11/blog-post_16.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "00469"
@@ -4265,7 +4247,7 @@
   created: 2026-05-27
   tags: ["腎虧", "自殺", "華人文化", "醫療人類學", "飲酒", "學術筆記"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/學術語體/00469_[札記] 文化與行為-古今華人的正常與不正常的行為.md
+  filepath: text/讀書筆記/00469_[札記] 文化與行為-古今華人的正常與不正常的行為.md
   source: https://r94325005.blogspot.com/2013/11/blog-post_4403.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "s0000"
