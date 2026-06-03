@@ -5,25 +5,7 @@
   birth_place: null
   education: null
   occupation: 語文教師
-  notes: 語島語庫主編，專長為語言書寫與情感表達
-
-張三:
-  author_id: A002
-  gender: 男
-  birth_year: null
-  birth_place: null
-  education: null
-  occupation: null
-  notes: 由胡語居士邀稿之投稿者，風格幽默
-
-李四:
-  author_id: A003
-  gender: 女
-  birth_year: null
-  birth_place: null
-  education: null
-  occupation: null
-  notes: 高中生投稿，語感具青春性與反身書寫特徵
+  notes: 島人語庫主編，專長為語言書寫與情感表達
 
 忠:
   author_id: A004
@@ -32,7 +14,7 @@
   birth_place: null
   education: null
   occupation: null
-  notes: 透過 Google 表單投稿，2026-04-28 首次投稿《一次助人的經驗》
+  notes: 透過 Google 表單投稿，2026-04-28 首次投稿《一次助人的經驗》（00408）
 
 裘旼旼:
   author_id: A005
@@ -52,4 +34,47 @@
   occupation: 研究生（博士生）
   notes: Blogspot 部落格 https://r94325005.blogspot.com/，筆名「筆耕者」，書寫橫跨2007-2023年，主題涵蓋日常觀察、學術筆記、文化評論，2026-05-22 首次收錄（00419–00428）
 
-（以下依據你語料中的作者陸續擴充）
+seantyh:
+  author_id: A007
+  gender: null
+  birth_year: null
+  birth_place: 台灣
+  education: null
+  occupation: null
+  notes: 旅居海外的台灣人，以口語化中文記錄異鄉生活、研究室日常與文化觀察；書寫風格自然內斂，語料共 96 篇，全數為家書與日記類
+
+黃仲義:
+  author_id: A008
+  gender: null
+  birth_year: null
+  birth_place: null
+  education: null
+  occupation: 生物教師
+  notes: 語料以教學設計、課程計畫書與實驗講義為主，涵蓋行動學習、僑生課程等議題
+
+ixel:
+  author_id: A009
+  gender: null
+  birth_year: null
+  birth_place: 台灣
+  education: null
+  occupation: null
+  notes: 透過 Google 表單投稿（nonosanya@gmail.com），2025-05-18 首次收錄；書寫形式為口語化日記，記錄城市生活、情感與日常瑣事
+
+魏郁穎:
+  author_id: A010
+  gender: null
+  birth_year: null
+  birth_place: null
+  education: 高中（宜蘭商工）
+  occupation: 學生
+  notes: 透過 Google 表單投稿（b0987386200@gmail.com），2026-05-22 首次投稿《宜商畢業典禮的離別與未來》（00478）
+
+賴武忠:
+  author_id: A011
+  gender: 男
+  birth_year: null
+  birth_place: null
+  education: null
+  occupation: 高中教師
+  notes: 語料為 2002 年致高三九班全班的畢業贈言信件，情感真摯，語帶口語與激勵
