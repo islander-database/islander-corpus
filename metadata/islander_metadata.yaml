@@ -576,15 +576,6 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00062_山東大叔與聲韻學.md
   source: Facebook 個人貼文
-- id: "00063"
-  title: 整理舊信
-  author: 胡語居士
-  date: 2011-02-01
-  created: 2026-04-21
-  tags: ["書信", "過年", "記憶", "友誼", "手寫信", "舊物"]
-  license: CC-BY-NC-SA-4.0
-  filepath: text/家書與日記/00063_整理舊信.md
-  source: Facebook 個人貼文
 - id: "00064"
   title: 四川自助行程規劃
   author: 胡語居士
@@ -2412,15 +2403,6 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00267_血壓200的K生與開書考試.md
   source: Facebook 個人貼文
-- id: "00268"
-  title: 十一月宜蘭還要戴口罩騎車
-  author: 胡語居士
-  date: 2019-11-24
-  created: 2026-04-22
-  tags: ["天氣", "宜蘭", "氣候", "日常生活", "冬衣"]
-  license: CC-BY-NC-SA-4.0
-  filepath: text/家書與日記/00268_十一月宜蘭還要戴口罩騎車.md
-  source: Facebook 個人貼文
 - id: "00269"
   title: 學生拿雞腿砸老師
   author: 胡語居士
@@ -2591,15 +2573,6 @@
   tags: ["作弊", "補考", "教室日誌", "職場", "調查"]
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00287_補考考卷集體作弊的調查.md
-  source: Facebook 個人貼文
-- id: "00288"
-  title: 料理實驗室帶回來的豬心
-  author: 胡語居士
-  date: 2020-08-30
-  created: 2026-04-22
-  tags: ["婚姻", "料理", "豬心", "下水", "夫妻"]
-  license: CC-BY-NC-SA-4.0
-  filepath: text/家族書寫/00288_料理實驗室帶回來的豬心.md
   source: Facebook 個人貼文
 - id: "00289"
   title: 我其實並不討厭開學
@@ -3672,16 +3645,15 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00407_書法課教室飄來魚市場的味道.md
   source: Facebook 個人貼文
-- id: "00408"
-  title: 一次助人的經驗
-  author: 忠
-  date: 2026-04-28
-  created: 2026-05-02
-  tags: ["車禍", "社會冷漠", "助人", "個人敘事"]
+- id: "00409"
+  title: 宜商畢業典禮的離別與未來
+  author: 魏郁穎
+  date: 2026-05-22
+  created: 2026-06-03
+  tags: ["畢業典禮", "宜商", "離別", "師生情感", "學生書寫"]
   license: CC-BY-NC-SA-4.0
-  filepath: text/家書與日記/00408_一次助人的經驗.md
+  filepath: text/家書與日記/00409_宜商畢業典禮的離別與未來.md
   source: Google 表單投稿
-  notes: 第一人稱敘事，記述騎車目擊休旅車闖紅燈撞傷機車騎士後下車救助、聯絡警消、應變止血並追蹤關懷的完整經過，結尾反思社會冷漠與助人意義。
 - id: "00409"
   title: 國中初任導師的注意事項——新生訓練篇
   author: 裘旼旼
@@ -3777,6 +3749,650 @@
   filepath: text/文化筆記/00418_試譯-袁枚〈答蕺園論詩書〉.md
   source: https://medium.com/@ahahing/%E8%A9%A6%E8%AD%AF-%E8%A2%81%E6%9E%9A-%E7%AD%94%E8%95%BA%E5%9C%92%E8%AB%96%E8%A9%A9%E6%9B%B8-23cf472cf43f
   notes: 原臉書網誌 2019-12-01，後整理上傳至 Medium；含原文及作者白話試譯
+- id: "00419"
+  title: 第一篇 與 日常筆記
+  author: 安安總召
+  date: 2007-08-07
+  created: 2026-05-22
+  tags: ["研究日記", "研究生活", "中醫藥", "圖書館", "Bourdieu", "日常書寫", "工具學習"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00419_第一篇 與 日常筆記.md
+  source: https://r94325005.blogspot.com/2007/08/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00420"
+  title: 幽靜與勞碌
+  author: 徐國能
+  date: 2026-05-14
+  created: 2026-06-03
+  tags: ["散文", "師大", "文學聯想", "工藝美學", "泰戈爾"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00420_幽靜與勞碌.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0a3m4FYZaRqds9gMmFsx6GDBz2okFeHLxyYo8CL2oE22aa5P3pDnrRrXvRZPtjidyl
+- id: "00420"
+  title: 太極拳
+  author: 安安總召
+  date: 2010-04-16
+  created: 2026-05-22
+  tags: ["太極拳", "身體感知", "中醫", "田野觀察", "武術", "健保政策", "觸類旁通"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/身體書寫/00420_太極拳.md
+  source: https://r94325005.blogspot.com/2010/04/blog-post_15.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00421"
+  title: 絕美一筆箋
+  author: 徐國能
+  date: 2026-05-12
+  created: 2026-06-03
+  tags: ["散文", "師大", "詩詞", "金庸", "文創"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00421_絕美一筆箋.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0344b3arFR7i71PJGi7ZUfTSGTgLUahtikz5jC1YnFEBsZyATcvSugMjWCwqskZatzl
+- id: "00421"
+  title: 四神湯
+  author: 安安總召
+  date: 2010-05-08
+  created: 2026-05-22
+  tags: ["四神湯", "中藥", "科技與社會", "ANT", "拉圖", "Bourdieu", "飲食文化", "知識社會學"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/飲食文化/00421_四神湯.md
+  source: https://r94325005.blogspot.com/2010/05/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00422"
+  title: 在高雄 黑狗兄
+  author: 安安總召
+  date: 2010-08-29
+  created: 2026-05-22
+  tags: ["高雄", "跑步", "家", "飯桌", "安全感", "流浪狗", "家族書寫"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00422_在高雄 黑狗兄.md
+  source: https://r94325005.blogspot.com/2010/08/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00422"
+  title: 我對書法（台電改字的聯想）
+  author: 徐國能
+  date: 2026-05-08
+  created: 2026-06-03
+  tags: ["散文", "書法", "設計", "文化觀察", "師大"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00422_我對書法（台電改字的聯想）.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02i2bJYTsPGSBwnWNJXLY31SspekJCCeCBTq6u3C9u4iuzAmpzbjDcU1kRHRL9DxKbl
+- id: "00423"
+  title: 寫作事業——八刷有感
+  author: 徐國能
+  date: 2026-05-02
+  created: 2026-06-03
+  tags: ["散文", "寫作", "莊子", "褚威格", "文學反思", "自由"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00423_寫作事業——八刷有感.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid028D4yzM5JpPGQ1jtuWi23n4jUy6f3AeE2oT2QURgQsUnLAoMEGHBA2zXLrSjMKSZfl
+- id: "00423"
+  title: 晨行 青島豆漿店
+  author: 安安總召
+  date: 2011-07-11
+  created: 2026-05-22
+  tags: ["早餐", "城市觀察", "豆漿店", "日常書寫", "集體意識", "台北"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00423_晨行 青島豆漿店.md
+  source: https://r94325005.blogspot.com/2011/07/blog-post_10.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00424"
+  title: 巿場
+  author: 安安總召
+  date: 2011-07-12
+  created: 2026-05-22
+  tags: ["菜市場", "城市觀察", "布希亞", "現代性", "日常生活", "台北", "生活觀察"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00424_巿場.md
+  source: https://r94325005.blogspot.com/2011/07/blog-post_11.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00424"
+  title: 我不知道風，在哪一個方向吹
+  author: 徐國能
+  date: 2026-04-07
+  created: 2026-06-03
+  tags: ["散文", "自由", "教育", "人生反思", "師大"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00424_我不知道風，在哪一個方向吹.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid022M6fKSatodk5inhvWBoHEBL3kmvuuAxRmdNJgUZv8zTuzAL45G46y5qZpBwyNoHHl
+- id: "00425"
+  title: 那說不出的第九味
+  author: 徐國能
+  date: 2026-03-29
+  created: 2026-06-03
+  tags: ["散文", "師大", "辭修", "文學因緣", "教育", "散文典範"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00425_那說不出的第九味.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02rMjidqBEXxy3hkUSHdpXohFnsN4ifVNgejehHDjwayJ7RGdZeXmAXeGb9gtvJRAQl
+- id: "00425"
+  title: 《科技、醫療與社會》第1~10期的心得筆記
+  author: 安安總召
+  date: 2011-11-07
+  created: 2026-05-22
+  tags: ["科技與社會", "STS", "醫療社會學", "ANT", "期刊筆記", "知識社會學", "Latour", "Bourdieu"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00425_《科技、醫療與社會》第1~10期的心得筆記.md
+  source: https://r94325005.blogspot.com/2011/11/110.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00426"
+  title: 月光
+  author: 安安總召
+  date: 2012-08-31
+  created: 2026-05-22
+  tags: ["月光", "家族書寫", "飯桌", "寫作", "研究生活", "台北", "日常書寫"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00426_月光.md
+  source: https://r94325005.blogspot.com/2012/08/blog-post_31.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00427"
+  title: 建國啤酒廠餐廳
+  author: 安安總召
+  date: 2012-11-24
+  created: 2026-05-22
+  tags: ["空間分析", "涂爾幹", "Bakhtin", "消費空間", "都市生活", "班雅明", "文化批評"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00427_建國啤酒廠餐廳.md
+  source: https://r94325005.blogspot.com/2012/11/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00428"
+  title: 少年PI
+  author: 安安總召
+  date: 2012-12-25
+  created: 2026-05-22
+  tags: ["少年PI", "電影評論", "信仰", "尼采", "佛法", "生死", "存在主義"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00428_少年PI.md
+  source: https://r94325005.blogspot.com/2012/12/pi.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00429"
+  title: 生活 20120830
+  author: 安安總召
+  date: 2012-08-30
+  created: 2026-05-23
+  tags: ["日常書寫", "科技與日常", "學術生活", "自我反省", "博士生活", "台北", "研究生"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00429_生活 20120830.md
+  source: https://r94325005.blogspot.com/2012/08/20120830.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00430"
+  title: 書寫
+  author: 安安總召
+  date: 2012-08-31
+  created: 2026-05-23
+  tags: ["書寫", "部落格", "日常書寫", "現象學", "學術生活", "自由書寫", "博士生活"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00430_書寫.md
+  source: https://r94325005.blogspot.com/2012/08/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00431"
+  title: [摘要]意外多重奏：STS如何重組真相
+  author: 安安總召
+  date: 2013-01-11
+  created: 2026-05-23
+  tags: ["STS", "科技與社會", "讀書摘要", "意外", "風險治理", "醫療化", "ANT", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00431_[摘要]意外多重奏：STS如何重組真相.md
+  source: https://r94325005.blogspot.com/2013/01/sts.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00432"
+  title: 食品、健康與幸福：定位機能性食品［保健食品］
+  author: 安安總召
+  date: 2013-02-20
+  created: 2026-05-23
+  tags: ["機能性食品", "保健食品", "食品社會學", "醫療化", "修辭", "消費", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00432_食品、健康與幸福：定位機能性食品.md
+  source: https://r94325005.blogspot.com/2013/02/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00433"
+  title: 機能性食品：和社會學有啥相關？
+  author: 安安總召
+  date: 2013-02-20
+  created: 2026-05-23
+  tags: ["機能性食品", "食品社會學", "醫療化", "消費文化", "學術筆記", "生物技術", "保健食品"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00433_機能性食品：和社會學有啥相關？.md
+  source: https://r94325005.blogspot.com/2013/02/blog-post_20.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00434"
+  title: 食品健康政策與倫理：機能性食品的常民觀點
+  author: 安安總召
+  date: 2013-02-21
+  created: 2026-05-23
+  tags: ["機能性食品", "食品社會學", "常民知識", "健康政策", "醫療化", "學術筆記", "飲食文化"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00434_食品健康政策與倫理：機能性食品的常民觀點.md
+  source: https://r94325005.blogspot.com/2013/02/blog-post_8918.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00435"
+  title: [發想] 魏晉至唐之間的靈芝學術鬥爭
+  author: 安安總召
+  date: 2013-02-23
+  created: 2026-05-23
+  tags: ["靈芝", "學術史", "道教", "本草學", "中醫", "科學社會學", "符號鬥爭", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00435_[發想] 魏晉至唐之間的靈芝學術鬥爭.md
+  source: https://r94325005.blogspot.com/2013/02/blog-post_22.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00436"
+  title: 靈芝文獻相關摘要 (1)
+  author: 安安總召
+  date: 2013-02-27
+  created: 2026-05-23
+  tags: ["靈芝", "真菌人類學", "學術史", "漢代", "道教", "祥瑞", "本草學", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00436_靈芝文獻相關摘要 (1).md
+  source: https://r94325005.blogspot.com/2013/02/1.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00437"
+  title: 砂石的社會分析相關資訊
+  author: 安安總召
+  date: 2013-04-29
+  created: 2026-05-23
+  tags: ["砂石", "交通安全", "社會分析", "環境政策", "地方發展", "勞動過程", "公視", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00437_砂石的社會分析相關資訊.md
+  source: https://r94325005.blogspot.com/2013/04/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00438"
+  title: 公益彩劵與公益勸募
+  author: 安安總召
+  date: 2013-04-30
+  created: 2026-05-23
+  tags: ["公益彩劵", "公益勸募", "非營利組織", "社會政策", "NGO", "公民社會", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00438_公益彩劵與公益勸募.md
+  source: https://r94325005.blogspot.com/2013/04/blog-post_30.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00439"
+  title: 今天的練習筆記
+  author: 安安總召
+  date: 2013-07-10
+  created: 2026-05-23
+  tags: ["太極拳", "身體實作", "學習", "社會學", "社會理論", "武術哲學", "身體書寫"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/身體書寫/00439_今天的練習筆記.md
+  source: https://r94325005.blogspot.com/2013/07/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00440"
+  title: [筆記] 廚房裡的人類學家
+  author: 安安總召
+  date: 2013-07-11
+  created: 2026-05-23
+  tags: ["廚房裡的人類學家", "莊祖宜", "飲食文化", "人類學", "食物", "在地化", "文化筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/飲食文化/00440_[筆記] 廚房裡的人類學家.md
+  source: https://r94325005.blogspot.com/2013/07/blog-post_10.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00441"
+  title: 總舖師觀影心得(有雷) 論放空 論問路 論台大獎勵金之虛偽
+  author: 安安總召
+  date: 2013-08-21
+  created: 2026-05-23
+  tags: ["總舖師", "電影評論", "飲食文化", "台灣電影", "社會觀察", "日常哲學", "研究生勞動", "文化筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00441_總舖師觀影心得(有雷) 論放空 論問路 論台大獎勵金之虛偽.md
+  source: https://r94325005.blogspot.com/2013/08/4365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00442"
+  title: [研究筆記] 1960~1980關於保健食品/健康食品的新聞整理與觀察
+  author: 安安總召
+  date: 2013-08-23
+  created: 2026-05-23
+  tags: ["保健食品", "健康食品", "食品產業", "台灣史", "聯合知識庫", "食品社會學", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00442_研究筆記 1960-1980關於保健食品健康食品的新聞整理與觀察.md
+  source: https://r94325005.blogspot.com/2013/08/5365-19601980.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00443"
+  title: 6/365 順園的辣椒　對《本草綱目》批判之提醒 回顧聯合知識庫保健食品相關報導
+  author: 安安總召
+  date: 2013-08-23
+  created: 2026-05-23
+  tags: ["太極拳", "本草綱目", "保健食品", "飲食文化", "身體書寫", "學術筆記", "日常生活"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00443_順園的辣椒 對《本草綱目》批判之提醒 回顧聯合知識庫保健食品相關報導.md
+  source: https://r94325005.blogspot.com/2013/08/6365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00444"
+  title: [7/365] 穴道之實作特性 女子犀利大趴
+  author: 安安總召
+  date: 2013-08-25
+  created: 2026-05-23
+  tags: ["穴道", "中醫", "身體實作", "太極拳", "演唱會", "劉若英", "身體書寫"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/身體書寫/00444_7-365 穴道之實作特性 女子犀利大趴.md
+  source: https://r94325005.blogspot.com/2013/08/7365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00445"
+  title: 13/365 一點反思
+  author: 安安總召
+  date: 2013-09-03
+  created: 2026-05-23
+  tags: ["日常生活", "社會觀察", "自我反思", "公德心", "中醫", "日記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00445_13-365 一點反思.md
+  source: https://r94325005.blogspot.com/2013/09/13365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00446"
+  title: 14/365 雜記
+  author: 安安總召
+  date: 2013-09-05
+  created: 2026-05-23
+  tags: ["太極拳", "社會學教育", "個性", "學習", "身體", "日記", "助教"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/身體書寫/00446_14-365 雜記.md
+  source: https://r94325005.blogspot.com/2013/09/14365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00447"
+  title: 15/365 籃球與專注力 社會學的PK擂台 對未來的渴望
+  author: 安安總召
+  date: 2013-09-06
+  created: 2026-05-23
+  tags: ["籃球", "太極拳", "身體書寫", "社會學", "專注力", "學習", "渴望"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/身體書寫/00447_15-365 籃球與專注力 社會學的PK擂台 對未來的渴望.md
+  source: https://r94325005.blogspot.com/2013/09/15365-pk.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00448"
+  title: 16/365 感冒 風動幡動與心動 對平「視」意涵之思考
+  author: 安安總召
+  date: 2013-09-06
+  created: 2026-05-23
+  tags: ["太極拳", "感冒", "平視", "風動幡動", "禪", "身體書寫", "哲學"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/身體書寫/00448_16-365 感冒 風動幡動與心動 對平「視」意涵之思考.md
+  source: https://r94325005.blogspot.com/2013/09/16365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00449"
+  title: 17/365 視而不見 對於台大社會所研究生的提問
+  author: 安安總召
+  date: 2013-09-07
+  created: 2026-05-23
+  tags: ["研究生", "社會學", "台大", "獎勵金", "公共議題", "文化觀察", "日記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00449_17-365 視而不見 對於台大社會所研究生的提問.md
+  source: https://r94325005.blogspot.com/2013/09/17365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00450"
+  title: 18/365 因愛而組成的多元家庭
+  author: 安安總召
+  date: 2013-09-09
+  created: 2026-05-23
+  tags: ["多元家庭", "婚姻", "家庭制度", "性別", "社會觀察", "愛", "步道"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00450_18-365 因愛而組成的多元家庭.md
+  source: https://r94325005.blogspot.com/2013/09/18365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00451"
+  title: 19/365 從扎針看社會對人的自我設限的影響 開學 修課還是寫論文？
+  author: 安安總召
+  date: 2013-09-09
+  created: 2026-05-23
+  tags: ["中醫", "扎針", "社會設限", "研究生", "台大", "學習", "身體"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00451_19-365 從扎針看社會對人的自我設限的影響 開學 修課還是寫論文.md
+  source: https://r94325005.blogspot.com/2013/09/19365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00452"
+  title: 保健食品產業與論文目標 奶奶與外傭的家庭照顧之問題
+  author: 安安總召
+  date: 2013-09-12
+  created: 2026-05-23
+  tags: ["保健食品", "家庭照顧", "外籍勞工", "社會學", "論文", "老年", "日記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00452_保健食品產業與論文目標 奶奶與外傭的家庭照顧之問題.md
+  source: https://r94325005.blogspot.com/2013/09/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00453"
+  title: 21-365 食品與異化
+  author: 安安總召
+  date: 2013-09-17
+  created: 2026-05-23
+  tags: ["食品", "異化", "保健食品", "STS", "社會學", "批判分析", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00453_21-365 食品與異化.md
+  source: https://r94325005.blogspot.com/2013/09/21365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00454"
+  title: 22-365 記一次聊天
+  author: 安安總召
+  date: 2013-09-19
+  created: 2026-05-23
+  tags: ["保健食品", "中藥", "行銷", "訪談記錄", "市場分析", "社會學", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00454_22-365 記一次聊天.md
+  source: https://r94325005.blogspot.com/2013/09/22365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00455"
+  title: 23-365 牛樟芝的現象觀察與初步討論
+  author: 安安總召
+  date: 2013-09-19
+  created: 2026-05-25
+  tags: ["牛樟芝", "靈芝", "保健食品", "STS", "山林保育", "學術筆記", "產業分析"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00455_23-365 牛樟芝的現象觀察與初步討論.md
+  source: https://r94325005.blogspot.com/2013/09/23365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00456"
+  title: 24-365 想法與碎念
+  author: 安安總召
+  date: 2013-09-26
+  created: 2026-05-25
+  tags: ["中醫", "太極拳", "社會學", "十八趴", "學術", "日記", "碎念"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00456_24-365 想法與碎念.md
+  source: https://r94325005.blogspot.com/2013/09/424.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00457"
+  title: 25-365 寫作障礙 論文計劃書 投稿
+  author: 安安總召
+  date: 2013-09-28
+  created: 2026-05-25
+  tags: ["論文", "寫作障礙", "投稿", "保健食品", "學術", "日記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00457_25-365 寫作障礙 論文計劃書 投稿.md
+  source: https://r94325005.blogspot.com/2013/09/25365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00458"
+  title: 26-365 靈芝作為山產 角板山紀行
+  author: 安安總召
+  date: 2013-09-29
+  created: 2026-05-25
+  tags: ["靈芝", "牛樟芝", "角板山", "山產", "田野觀察", "旅行", "保健食品"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/旅行手札/00458_26-365 靈芝作為山產 角板山紀行.md
+  source: https://r94325005.blogspot.com/2013/09/26365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00459"
+  title: 28-365 蜂蜜觀光工廠 參觀紀行與分析
+  author: 安安總召
+  date: 2013-10-08
+  created: 2026-05-25
+  tags: ["蜂蜜", "觀光工廠", "消費文化", "行銷", "田野觀察", "保健食品", "禮物交換"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/消費經驗/00459_28-365 蜂蜜觀光工廠 參觀紀行與分析.md
+  source: https://r94325005.blogspot.com/2013/10/28365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00460"
+  title: 29-365 她們離開了 學術藝師精神 初心
+  author: 安安總召
+  date: 2013-10-16
+  created: 2026-05-25
+  tags: ["學術藝師", "初心", "社會學", "志業", "日記", "孤獨"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00460_29-365 她們離開了 學術藝師精神 初心.md
+  source: https://r94325005.blogspot.com/2013/10/29365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00461"
+  title: 31-365 讀《新藥臨床試驗制度在生技產業政策推動過程中變遷之探討》有感
+  author: 安安總召
+  date: 2013-10-24
+  created: 2026-05-25
+  tags: ["生技產業", "新藥", "保健食品", "健康食品", "法規", "學術筆記", "市場"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00461_31-365 讀《新藥臨床試驗制度在生技產業政策推動過程中變遷之探討》有感.md
+  source: https://r94325005.blogspot.com/2013/10/31365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00462"
+  title: 34/365 讀〈權力的技術與技術的權力：台灣疫苗採用的歷程分析〉之札記
+  author: 安安總召
+  date: 2013-11-02
+  created: 2026-05-27
+  tags: ["疫苗", "生命政治", "STS", "科技與社會", "台灣社會學", "傅柯", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00462_34∕365讀〈權力的技術與技術的權力：台灣疫苗採用的歷程分析〉之札記.md
+  source: https://r94325005.blogspot.com/2013/11/blog-post.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00463"
+  title: 35/365 讀〈高中生選組行為的原因與結果：性別、信念、教師角色與能力發展〉之札記
+  author: 安安總召
+  date: 2013-11-03
+  created: 2026-05-27
+  tags: ["性別", "教育", "高中選組", "量化研究", "台灣社會學", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00463_35∕365讀〈高中生選組行為的原因與結果：性別、信念、教師角色與能力發展〉之札記.md
+  source: https://r94325005.blogspot.com/2013/11/35365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00464"
+  title: [筆記] 從Burawoy的延伸個案法出發，思考社會學本土化
+  author: 安安總召
+  date: 2013-11-03
+  created: 2026-05-27
+  tags: ["社會學本土化", "延伸個案法", "Burawoy", "社會學方法論", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00464_[筆記] 從Burawoy的延伸個案法出發，思考社會學本土化.md
+  source: https://r94325005.blogspot.com/2013/11/burawoy.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）；本文為作者2011年修習社會學方法論課程所撰，2013年11月上傳至部落格
+- id: "00465"
+  title: [筆記] 社會學本土化－對觀察架構的觀察與社會學教育
+  author: 安安總召
+  date: 2013-11-03
+  created: 2026-05-27
+  tags: ["社會學本土化", "台灣社會學", "方法論", "學術論述", "教育", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00465_[筆記] 社會學本土化－對觀察架構的觀察與社會學教育.md
+  source: https://r94325005.blogspot.com/2013/11/blog-post_2.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）；本文原作於2011年7月
+- id: "00466"
+  title: 38/365 思考老翁殺妻（生命政治與死亡）（流浪狗之安樂死）
+  author: 安安總召
+  date: 2013-11-10
+  created: 2026-05-27
+  tags: ["生命政治", "安樂死", "死亡", "流浪狗", "日記", "傅柯", "社會觀察"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00466_38∕365思考老翁殺妻（生命政治與死亡）（流浪狗之安樂死）.md
+  source: https://r94325005.blogspot.com/2013/11/38365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00467"
+  title: 39/365 三十而立
+  author: 安安總召
+  date: 2013-11-13
+  created: 2026-05-27
+  tags: ["三十而立", "學術生活", "博士班", "日記", "寫作"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00467_39∕365三十而立.md
+  source: https://r94325005.blogspot.com/2013/11/39365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00468"
+  title: [隨筆]性別身體與醫療（李貞德主編）
+  author: 安安總召
+  date: 2013-11-17
+  created: 2026-05-27
+  tags: ["性別", "身體", "醫療", "保健食品", "美容", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00468_[隨筆]性別身體與醫療（李貞德主編）.md
+  source: https://r94325005.blogspot.com/2013/11/blog-post_16.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00469"
+  title: [札記] 文化與行為-古今華人的正常與不正常的行為
+  author: 安安總召
+  date: 2013-11-17
+  created: 2026-05-27
+  tags: ["腎虧", "自殺", "華人文化", "醫療人類學", "飲酒", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00469_[札記] 文化與行為-古今華人的正常與不正常的行為.md
+  source: https://r94325005.blogspot.com/2013/11/blog-post_4403.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00470"
+  title: 43/365 修整生活 騎車去長庚 熟悉的晚餐 全人 仁
+  author: 安安總召
+  date: 2013-12-27
+  created: 2026-06-01
+  tags: ["日記", "博士生活", "騎車", "長庚大學", "教學", "身體書寫", "太極拳", "全人觀"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00470_43∕365修整生活 騎車去長庚 熟悉的晚餐 全人 仁.md
+  source: https://r94325005.blogspot.com/2013/12/43365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00471"
+  title: [札記]〈回應李鈞鵬〈作為社會科學哲學的社會機制〉〉（作者萬毓澤）
+  author: 安安總召
+  date: 2013-12-07
+  created: 2026-06-01
+  tags: ["社會機制", "科學實在論", "萬毓澤", "社會科學哲學", "因果解釋", "Bunge", "CESM模型", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00471_[札記]〈回應李鈞鵬〈作為社會科學哲學的社會機制〉〉（作者萬毓澤）.md
+  source: https://r94325005.blogspot.com/2013/12/blog-post_8316.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00472"
+  title: [札記]〈有緣社會中的民主〉（作者劉定綱）
+  author: 安安總召
+  date: 2013-12-06
+  created: 2026-06-01
+  tags: ["社會理論", "有緣社會", "民主", "劉定綱", "緣起", "龍樹", "佛教社會學", "學術筆記"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00472_[札記]〈有緣社會中的民主〉（作者劉定綱）.md
+  source: https://r94325005.blogspot.com/2013/12/blog-post_6.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00473"
+  title: 40/365 能量、貨幣、語言──從交換角度的發想
+  author: 安安總召
+  date: 2013-12-04
+  created: 2026-06-01
+  tags: ["日記", "哲學發想", "交換", "能量", "語言", "ATP", "R. Collins", "注意力", "社會學理論"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00473_40∕365能量、貨幣、語言──從交換角度的發想.md
+  source: https://r94325005.blogspot.com/2013/12/41365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00474"
+  title: 45/365 練習
+  author: 安安總召
+  date: 2014-01-09
+  created: 2026-06-01
+  tags: ["日記", "太極拳", "身體書寫", "練習", "宗教", "正念", "全人觀"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00474_45∕365練習.md
+  source: https://r94325005.blogspot.com/2014/01/45365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00475"
+  title: 46/365 鬼島 負債黑工的困境
+  author: 安安總召
+  date: 2014-01-10
+  created: 2026-06-01
+  tags: ["日記", "勞動", "派遣勞工", "負債", "社會觀察", "剝削", "圖書館", "新貧"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00475_46∕365鬼島 負債黑工的困境.md
+  source: https://r94325005.blogspot.com/2014/01/46365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00476"
+  title: 47/365 唱歌 想你一切都好
+  author: 安安總召
+  date: 2014-01-13
+  created: 2026-06-01
+  tags: ["日記", "KTV", "友情", "情感書寫", "記憶", "城市生活", "異化"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00476_47∕365唱歌 想你一切都好.md
+  source: https://r94325005.blogspot.com/2014/01/47365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00477"
+  title: 48/365 魂不守舍 意不守神 進入情境 收紙盒的阿伯與拿牛奶紙盒的小妹
+  author: 安安總召
+  date: 2014-01-15
+  created: 2026-06-01
+  tags: ["日記", "太極拳", "身體書寫", "注意力", "社會觀察", "貧窮", "寫作", "活在當下"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00477_48∕365魂不守舍 意不守神 進入情境 收紙盒的阿伯與拿牛奶紙盒的小妹.md
+  source: https://r94325005.blogspot.com/2014/01/48365.html
+  notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
 - id: "s0000"
   title: Montreal
   author: seantyh
