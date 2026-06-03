@@ -1,7 +1,7 @@
 胡語居士:
   author_id: A001
   gender: 女
-  birth_year: null
+  birth_decade: 1980s
   birth_place: null
   education: null
   occupation: 語文教師
@@ -10,7 +10,7 @@
 忠:
   author_id: A004
   gender: null
-  birth_year: null
+  birth_decade: 1990s
   birth_place: null
   education: null
   occupation: null
@@ -19,7 +19,7 @@
 裘旼旼:
   author_id: A005
   gender: 女
-  birth_year: null
+  birth_decade: 1980s
   birth_place: null
   education: 國文系
   occupation: 國中國文教師
@@ -28,7 +28,7 @@
 安安總召:
   author_id: A006
   gender: null
-  birth_year: null
+  birth_decade: 1980s
   birth_place: null
   education: 社會學研究所
   occupation: 研究生（博士生）
@@ -36,17 +36,17 @@
 
 seantyh:
   author_id: A007
-  gender: null
-  birth_year: null
+  gender: 男
+  birth_decade: 1980s
   birth_place: 台灣
-  education: null
-  occupation: null
+  education: 心理學博士
+  occupation: 博士後研究員
   notes: 旅居海外的台灣人，以口語化中文記錄異鄉生活、研究室日常與文化觀察；書寫風格自然內斂，語料共 96 篇，全數為家書與日記類
 
 黃仲義:
   author_id: A008
   gender: null
-  birth_year: null
+  birth_decade: 1970s
   birth_place: null
   education: null
   occupation: 生物教師
@@ -55,7 +55,7 @@ seantyh:
 ixel:
   author_id: A009
   gender: null
-  birth_year: null
+  birth_decade: null
   birth_place: 台灣
   education: null
   occupation: null
@@ -64,7 +64,7 @@ ixel:
 魏郁穎:
   author_id: A010
   gender: null
-  birth_year: null
+  birth_decade: 2000s
   birth_place: null
   education: 高中（宜蘭商工）
   occupation: 學生
@@ -73,7 +73,7 @@ ixel:
 賴武忠:
   author_id: A011
   gender: 男
-  birth_year: null
+  birth_decade: 1950s
   birth_place: null
   education: null
   occupation: 高中教師
