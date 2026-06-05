@@ -576,6 +576,15 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00062_山東大叔與聲韻學.md
   source: Facebook 個人貼文
+- id: "00063"
+  title: 整理舊信
+  author: 胡語居士
+  date: 2011-02-01
+  created: 2026-04-21
+  tags: ["書信", "過年", "記憶", "友誼", "手寫信", "舊物"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00063_整理舊信.md
+  source: Facebook 個人貼文
 - id: "00064"
   title: 四川自助行程規劃
   author: 胡語居士
@@ -2403,6 +2412,15 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00267_血壓200的K生與開書考試.md
   source: Facebook 個人貼文
+- id: "00268"
+  title: 十一月宜蘭還要戴口罩騎車
+  author: 胡語居士
+  date: 2019-11-24
+  created: 2026-04-22
+  tags: ["天氣", "宜蘭", "氣候", "日常生活", "冬衣"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00268_十一月宜蘭還要戴口罩騎車.md
+  source: Facebook 個人貼文
 - id: "00269"
   title: 學生拿雞腿砸老師
   author: 胡語居士
@@ -2573,6 +2591,15 @@
   tags: ["作弊", "補考", "教室日誌", "職場", "調查"]
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00287_補考考卷集體作弊的調查.md
+  source: Facebook 個人貼文
+- id: "00288"
+  title: 料理實驗室帶回來的豬心
+  author: 胡語居士
+  date: 2020-08-30
+  created: 2026-04-22
+  tags: ["婚姻", "料理", "豬心", "下水", "夫妻"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家族書寫/00288_料理實驗室帶回來的豬心.md
   source: Facebook 個人貼文
 - id: "00289"
   title: 我其實並不討厭開學
@@ -3645,6 +3672,16 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/教室日誌/00407_書法課教室飄來魚市場的味道.md
   source: Facebook 個人貼文
+- id: "00408"
+  title: 一次助人的經驗
+  author: 忠
+  date: 2026-04-28
+  created: 2026-05-02
+  tags: ["車禍", "社會冷漠", "助人", "個人敘事"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00408_一次助人的經驗.md
+  source: Google 表單投稿
+  notes: 第一人稱敘事，記述騎車目擊休旅車闖紅燈撞傷機車騎士後下車救助、聯絡警消、應變止血並追蹤關懷的完整經過，結尾反思社會冷漠與助人意義。
 - id: "00409"
   title: 宜商畢業典禮的離別與未來
   author: 魏郁穎
@@ -4393,6 +4430,79 @@
   filepath: text/家書與日記/00477_48∕365魂不守舍 意不守神 進入情境 收紙盒的阿伯與拿牛奶紙盒的小妹.md
   source: https://r94325005.blogspot.com/2014/01/48365.html
   notes: 非AI聲明由使用者人工確認（投稿者表示部分標點符號經AI協助潤飾）
+- id: "00478"
+  title: 宜商畢業典禮畢業生致詞
+  author: 魏郁穎
+  date: 2026-05-22
+  created: 2026-06-03
+  tags: ["畢業典禮", "宜商", "離別", "師生情感", "學生書寫"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00478_宜商畢業典禮畢業生致詞.md
+  source: Google 表單投稿
+- id: "00478"
+  title: 世間滔滔浪
+  author: 徐國能
+  date: 2026-02-13
+  created: 2026-06-05
+  tags: ["詩", "散曲", "人生哲思", "文學創作"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00478_世間滔滔浪.md
+  source: https://www.facebook.com/xu.guo.neng.932685
+  notes: 詞曲體散文詩，字數未達300字，因文學性高由策展人判斷收錄
+- id: "00479"
+  title: 深夜得知師大某相關新聞
+  author: 徐國能
+  date: 2025-11-02
+  created: 2026-06-05
+  tags: ["散文", "師大", "感懷", "人生反思"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00479_深夜得知師大某相關新聞.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid036TBBEWHcu6XzRYbD6Sy5MN8fCHLgT86HtpxQSiBUjAm16Zccvs7DJQahLkj6gTMxl
+- id: "00480"
+  title: 這個問題真的很嚴重
+  author: 徐國能
+  date: 2025-11-16
+  created: 2026-06-05
+  tags: ["散文", "AI", "國文教育", "文學反思", "師大"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00480_這個問題真的很嚴重.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0b63bs86UQS5ic4G5cgzzd8MRsBRyjQv28CpCeCeftzcZNYbeKid83kAomBxZik1Al
+- id: "00481"
+  title: 國文系系慶80年師生聯歡桌球賽
+  author: 徐國能
+  date: 2025-12-11
+  created: 2026-06-05
+  tags: ["散文", "師大", "師生", "校園生活", "系慶"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00481_國文系系慶80年師生聯歡桌球賽.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02fSeYFuY88gYebXPaVnEFU7mxwhjN8Rw3PQWoJdC4Zz8ErKsnEijMpjKvLziXLB2wl
+- id: "00482"
+  title: 文摘4——棒球夢
+  author: 徐國能
+  date: 2023-01-05
+  created: 2026-06-05
+  tags: ["散文", "童年記憶", "棒球", "城市變遷", "台北"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00482_文摘4——棒球夢.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02ihgzTVLuJRncRFtvvq1HgpEd93qVnyYvtK3SmM9qU5fcDZhNgnQfExSpz1VCmpvzl
+- id: "00483"
+  title: 國文老師與甜甜圈
+  author: 徐國能
+  date: 2026-01-25
+  created: 2026-06-05
+  tags: ["散文", "語言學", "文化觀察", "社會事件", "國文教育"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00483_國文老師與甜甜圈.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0R2eMVEfKDXh5Agx6b5v49dMcAdc7mRCEDdU3BwkPAN6V9FqjSKqpCKUn6cjTN4dbl
+- id: "00484"
+  title: 中午，在上海鄉村
+  author: 徐國能
+  date: 2026-01-27
+  created: 2026-06-05
+  tags: ["散文", "飲食文化", "文學聯想", "喬伊斯", "記憶"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00484_中午，在上海鄉村.md
+  source: https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0kYwDqjPkPkvJhUkFCybc8ZcfPbZrgb1eeVB6oVCsFyBSghtEqqkJugqpefNJ4hEbl
 - id: "s0000"
   title: Montreal
   author: seantyh
