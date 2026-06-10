@@ -32,7 +32,7 @@
   birth_place: null
   education: 社會學研究所
   occupation: 研究生（博士生）
-  notes: Blogspot 部落格 https://r94325005.blogspot.com/，筆名「筆耕者」，書寫橫跨2007-2023年，主題涵蓋日常觀察、學術筆記、文化評論，2026-05-22 首次收錄（00419–00428）
+  notes: Blogspot 部落格 https://r94325005.blogspot.com/，筆名「筆耕者」，書寫橫跨2007-2023年，主題涵蓋日常觀察、學術筆記、文化評論，2026-05-22 首次收錄（00420–00428 及 00486，後者原編 00419，2026-06-10 因撞號改號）
 
 seantyh:
   author_id: A007
@@ -68,7 +68,7 @@ ixel:
   birth_place: null
   education: 高中（宜蘭商工）
   occupation: 學生
-  notes: 透過 Google 表單投稿（b0987386200@gmail.com），2026-05-22 首次投稿《宜商畢業典禮的離別與未來》（00478）
+  notes: 透過 Google 表單投稿（b0987386200@gmail.com），2026-05-22 首次投稿，共兩篇：《宜商畢業典禮畢業生致詞》（00478）、《宜商畢業典禮的離別與未來》（00485，原編 00409，2026-06-10 因撞號改號）
 
 賴武忠:
   author_id: A011
@@ -86,4 +86,22 @@ ixel:
   birth_place: 台灣
   education: 國文系博士
   occupation: 大學教授、國文系主任
-  notes: 國立臺灣師範大學國文學系主任，散文家，著有《怪咖老師的神祕時間》等；FB 帳號 https://www.facebook.com/xu.guo.neng.932685，2026-06-03 首次收錄（00420–00425），授權日期 2026-05-20
+  notes: 國立臺灣師範大學國文學系主任，散文家，著有《怪咖老師的神祕時間》等；FB 帳號 https://www.facebook.com/xu.guo.neng.932685，2026-06-03 首次收錄（00487–00492，原編 00420–00425，2026-06-10 因撞號改號），授權日期 2026-05-20
+
+黏黏:
+  author_id: A013
+  gender: null
+  birth_decade: null
+  birth_place: null
+  education: null
+  occupation: 服務業（便利商店）
+  notes: 2025-07-23 收錄《便利商店不只是個服務業》（00032），以親身工作經驗書寫超商勞動現場
+
+越:
+  author_id: A014
+  gender: null
+  birth_decade: 2000s
+  birth_place: null
+  education: 高職進修部（夜校）
+  occupation: 學生
+  notes: 2025-07-23 收錄《給老師的一封信》（00041），夜校畢業生致班導感言，原文寫於 2022-06
