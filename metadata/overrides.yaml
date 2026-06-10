@@ -1,0 +1,19 @@
+# 例外紀錄 — 由人工維護，sync_metadata.py 會讀取並套用
+#
+# withdrawn：已撤下但保留 metadata 紀錄的語料（投稿者要求撤回時加入）
+# authorization_overrides：授權狀態待確認的作者註記（作者名: 狀態）
+
+withdrawn:
+  - id: "00002"
+    title: "白腹秧雞之死"
+    author: "胡語居士"
+    date: "2024-09-25"
+    created: "2025-05-17"
+    tags: ["生命教育", "鳥類觀察", "校園隨筆", "情感書寫", "文化筆記"]
+    license: "CC-BY-NC-SA-4.0"
+    filepath: "text/文化筆記/00002_白腹秧雞之死.md"
+    status: "withdrawn"
+    notes: "暫時撤下，作者投稿他處中"
+
+authorization_overrides:
+  賴武忠: pending_family_consent
