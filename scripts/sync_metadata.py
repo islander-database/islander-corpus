@@ -105,26 +105,35 @@ def build_entry(file_path: Path) -> dict | None:
 
 
 def normalize_for_yaml(entries: list[dict]) -> str:
-    """產生符合 SKILL.md 規範的 YAML 字串：id 加雙引號、tags 陣列加雙引號。"""
+    """產生符合 SKILL.md 規範的 YAML 字串：id 加雙引號、tags 陣列加雙引號。
+
+    title/author/source/notes 為自由文字欄位，一律加雙引號並跳脫，
+    避免 `[摘要]`、`: ` 等開頭/內容產生非法 YAML。
+    """
+    def q(value) -> str:
+        """雙引號包裹並跳脫反斜線與雙引號。"""
+        s = str(value).replace("\\", "\\\\").replace('"', '\\"')
+        return f'"{s}"'
+
     lines = []
     for e in entries:
         lines.append(f'- id: "{e["id"]}"')
-        lines.append(f'  title: {e["title"]}')
-        lines.append(f'  author: {e["author"]}')
+        lines.append(f'  title: {q(e["title"])}')
+        lines.append(f'  author: {q(e["author"])}')
         if e.get("date"):
             lines.append(f'  date: {e["date"]}')
         if e.get("created"):
             lines.append(f'  created: {e["created"]}')
         # tags
         tags = e.get("tags") or []
-        tags_str = ", ".join(f'"{t}"' for t in tags)
+        tags_str = ", ".join(q(t) for t in tags)
         lines.append(f'  tags: [{tags_str}]')
         lines.append(f'  license: {e["license"]}')
         lines.append(f'  filepath: {e["filepath"]}')
         if e.get("source"):
-            lines.append(f'  source: {e["source"]}')
+            lines.append(f'  source: {q(e["source"])}')
         if e.get("notes"):
-            lines.append(f'  notes: {e["notes"]}')
+            lines.append(f'  notes: {q(e["notes"])}')
         if e.get("authorization_status"):
             lines.append(f'  authorization_status: {e["authorization_status"]}')
         if e.get("status"):
@@ -171,14 +180,19 @@ def main():
         return (1, eid)
     entries.sort(key=sort_key)
 
-    # 檢查 id 重複
+    # 檢查 id 重複：發現重複即中止，不寫出索引
     seen = {}
+    has_dup = False
     for e in entries:
         if e["id"] in seen:
+            has_dup = True
             print(f"❌ ID 重複：{e['id']}", file=sys.stderr)
             print(f"   {seen[e['id']]['filepath']}", file=sys.stderr)
             print(f"   {e['filepath']}", file=sys.stderr)
         seen[e["id"]] = e
+    if has_dup:
+        print("❌ 偵測到重複 id，已中止，未寫出索引。請先改號再重跑。", file=sys.stderr)
+        sys.exit(1)
 
     yaml_str = normalize_for_yaml(entries)
     YAML_OUT.write_text(yaml_str, encoding="utf-8")
