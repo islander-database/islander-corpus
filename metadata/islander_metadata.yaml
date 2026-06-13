@@ -4684,6 +4684,87 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/家書與日記/00513_東海玫瑰園——憶舊.md
   source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02rAvyq4QxNpn2mPcFzmWQ9SyTFdMz6rdwsQtqLsHENogfTJNGrY38CHecUfrR9vStl"
+- id: "00514"
+  title: "師大校友五十週年返校"
+  author: "徐國能"
+  date: 2025-09-27
+  created: 2026-06-13
+  tags: ["散文", "師大", "校友", "返校", "歌曲", "懷舊", "教育"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00514_師大校友五十週年返校.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02tyevD2y9edRYJPG748EAFqaB5oStSAs2jnYgLooHiBY1Uueb5CGpfDciH37t6jUpl"
+- id: "00515"
+  title: "新竹關埔國小研習"
+  author: "徐國能"
+  date: 2025-09-19
+  created: 2026-06-13
+  tags: ["散文", "教學", "研習", "新竹", "關埔國小", "國文教育"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/教室日誌/00515_新竹關埔國小研習.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0TW9kH8RHL6UDyLp7KuXp4d9vS2c4iwjRjm3Feo4Ai1e1AXSZaXfcjgonBanKvxLhl"
+- id: "00516"
+  title: "故宮四藝展與王開府攝影展"
+  author: "徐國能"
+  date: 2025-09-11
+  created: 2026-06-13
+  tags: ["散文", "故宮", "四藝展", "王開府", "杜甫", "校園生活"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00516_故宮四藝展與王開府攝影展.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02253rhhxLFW1x87JnXobVR57R1Xhc9k1RbXpSjukKCEUPybwGYoHqQxj4biHqS3Ssl"
+- id: "00517"
+  title: "會考國文三十三題思考"
+  author: "徐國能"
+  date: 2025-08-31
+  created: 2026-06-13
+  tags: ["散文", "教育評論", "會考", "國文", "閱讀理解"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00517_會考國文三十三題思考.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02zNsN6HYnDPJuLQYWRDvVzDLScS27yvGvnnSkgRUGoTUCJ2Qrb21vw57KvpLPmRXxl"
+- id: "00518"
+  title: "鋪地板師傅與愛的教育"
+  author: "徐國能"
+  date: 2025-07-20
+  created: 2026-06-13
+  tags: ["散文", "人情", "工匠", "愛", "教育", "感懷"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/家書與日記/00518_鋪地板師傅與愛的教育.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02DVC2eUutxPSBLMXPGgTP1AqH9jq15PJWzo2fdmNk9X4fxLW2tc2pjNnYNQA7Sd3Al"
+- id: "00519"
+  title: "聯經七月書展——文學經典中感受生活"
+  author: "徐國能"
+  date: 2025-07-15
+  created: 2026-06-13
+  tags: ["散文", "書評", "聯經", "歷史與思想", "千江有水", "唐詩"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/讀書筆記/00519_聯經七月書展——文學經典中感受生活.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02AePjzf1z3ZSmgmjHJRXtLjY6LmRFNTotXPNdB65LGSCGXNXe9kWqe7xVbDLrM4Ksl"
+- id: "00520"
+  title: "國科會大專生研究計畫——師大國文系十題"
+  author: "徐國能"
+  date: 2025-07-02
+  created: 2026-06-13
+  tags: ["散文", "國科會", "師大國文系", "學術研究", "大專生"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00520_國科會大專生研究計畫——師大國文系十題.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0qdommHaFPF6CneXLfCvWPHDbUKxUMvTpFMDdg3BjwNcsGVPXehFsECeuACdpeLKCl"
+- id: "00521"
+  title: "中小學科展批評"
+  author: "徐國能"
+  date: 2025-06-27
+  created: 2026-06-13
+  tags: ["散文", "教育評論", "科展", "科學教育", "造假"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00521_中小學科展批評.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02yYGek6h56BXAwo2jUoE6Dn5mro2ecYNPHwRtfMbG8hdzA3FcRcUYXGRN447w1cWCl"
+- id: "00522"
+  title: "學期結業學生回饋"
+  author: "徐國能"
+  date: 2025-06-21
+  created: 2026-06-13
+  tags: ["散文", "教學日誌", "杜甫詩", "學生回饋", "教學反思"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/教室日誌/00522_學期結業學生回饋.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02cdiBTssPQAUhMQgQeynu7VSrpyr8mvU1sRYJnxws3kMLgii6Pt3fbWsbM5GFBGdkl"
 - id: "s0000"
   title: "Montreal"
   author: "seantyh"
