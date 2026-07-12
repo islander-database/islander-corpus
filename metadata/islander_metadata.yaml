@@ -5973,6 +5973,24 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/文化筆記/00656_向心夫婦不起訴了.md
   source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02eJv9jRf2823XBjSEWvif1MsUcEdVF9nAkYaRZR8KgyrFZNAvvFbqaShpcDazn89tl"
+- id: "00657"
+  title: "權力與麥克風"
+  author: "徐國能"
+  date: 2021-09-21
+  created: 2026-07-12
+  tags: ["時事評論", "社會觀察", "權力", "學生會", "公共發言", "校園"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00657_權力與麥克風.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02YfwzaQDQ1pPMoMT9DSEGM3ReBiWMwTRea4UbT7qqY3MkgpCeV4xyY3KcMRSWi3iGl"
+- id: "00658"
+  title: "追風箏的孩子，而今安在哉？"
+  author: "徐國能"
+  date: 2021-08-16
+  created: 2026-07-12
+  tags: ["時事評論", "阿富汗", "國際政治", "美國", "塔利班", "歷史觀察"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00658_追風箏的孩子，而今安在哉？.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid086ybDDLE5cF5rP5PaukKjizhZX1gwgyNRw8nad8Gmmexb4W2afEgEo78PSH8BBFdl"
 - id: "00659"
   title: "今日刊登——出版新書百感交集"
   author: "徐國能"
@@ -6009,6 +6027,15 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/讀書筆記/00662_天下幾人學杜甫——廖美玉新書.md
   source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02T6a58YD7gNp5Aft4LqbGAbzcYz4upEj4FoAkccVkC7C7V7Wq5Fo2AUFwDa95RHoBl"
+- id: "00663"
+  title: "何處清歌可斷腸"
+  author: "徐國能"
+  date: 2021-07-05
+  created: 2026-07-12
+  tags: ["口試", "詩詞", "沈祖棻", "納蘭性德", "樸月", "師生互動", "文學回憶"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/教室日誌/00663_何處清歌可斷腸.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02Z8pBK2ErZBshyh4MV2XrmW6g87nHJgkP9G29hDJWyTURvSqUb23XpRPPgBSqoXEhl"
 - id: "00664"
   title: "新課綱下的國文教學思考"
   author: "徐國能"
@@ -6018,6 +6045,51 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/文化筆記/00664_新課綱下的國文教學思考.md
   source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02qV5XF2NLA1ngBr4DhSK5q1s6jgYzm5Rh6AXiBUqM5c4PhJGZMrgHKoYxphPEijEVl"
+- id: "00665"
+  title: "從爛作文開始"
+  author: "徐國能"
+  date: 2021-07-01
+  created: 2026-07-12
+  tags: ["李崇建", "作文教學", "寫作", "東海中文系", "教育", "回憶"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00665_從爛作文開始.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0raY95m1AQFLeLnQtnzSa7dvcVp4pVpnng3e1XhQJoEvq9joJvMW22pw3Czs4PSFul"
+- id: "00666"
+  title: "從平面到立體：師大國文系「文學創作學程」的理想與實踐"
+  author: "徐國能"
+  date: 2021-06-26
+  created: 2026-07-12
+  tags: ["師大國文系", "文學創作學程", "課程", "高等教育", "文化產業", "選課", "教育規劃"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/職場書寫/00666_從平面到立體：師大國文系「文學創作學程」的理想與實踐.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid02ZYJ43q9VzXUabxziS6P1fKvHp5p5AEgmHz6qdZAszS2qP6XRvZUzQEjBBFcHVsP7l"
+- id: "00667"
+  title: "如是我聞：C羅的自律"
+  author: "徐國能"
+  date: 2021-06-25
+  created: 2026-07-12
+  tags: ["C羅", "自律", "足球", "飲食", "訓練", "左傳"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00667_如是我聞：C羅的自律.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0ksxamX4U4qhEioBsnJpV8moURwKKhtPcFQd7rbHaSX61w6RuBhJ9SZTQjzkpKE2zl"
+- id: "00668"
+  title: "甚麼是「作」？"
+  author: "徐國能"
+  date: 2021-06-11
+  created: 2026-07-12
+  tags: ["會考作文", "寫作教育", "國中", "語文教育", "評論"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/教室日誌/00668_甚麼是「作」？.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid0ChtLnXuR1n3dAefiPRGTM8sJwy2kCfTQoLzKyWg1v8RBF5NAWpeUMm77VNVXKSrZl"
+- id: "00669"
+  title: "下一代的閱讀"
+  author: "徐國能"
+  date: 2021-06-08
+  created: 2026-07-12
+  tags: ["閱讀", "網路文化", "後現代", "社會觀察", "世代"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00669_下一代的閱讀.md
+  source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid04s8pDrpy89LNz3AvjZ2sgkvAPtLhbQTHpeyFkaBSKb3FmwYG6nKsTLShempXUsBel"
 - id: "s0000"
   title: "Montreal"
   author: "seantyh"
