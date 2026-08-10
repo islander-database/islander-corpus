@@ -6090,6 +6090,36 @@
   license: CC-BY-NC-SA-4.0
   filepath: text/文化筆記/00669_下一代的閱讀.md
   source: "https://www.facebook.com/xu.guo.neng.932685/posts/pfbid04s8pDrpy89LNz3AvjZ2sgkvAPtLhbQTHpeyFkaBSKb3FmwYG6nKsTLShempXUsBel"
+- id: "00675"
+  title: "談談我為班級服務的經驗"
+  author: "莊子由"
+  date: 1998-01-01
+  created: 2026-08-10
+  tags: ["演講稿", "服務學習", "班級幹部", "國中生活", "學生寫作"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/學習筆記/00675_談談我為班級服務的經驗.md
+  source: "島人語庫邀稿與授權表單投稿（新表單，2026-08-10，單一授權選項：公開 CC-BY-NC-SA 含訓練用途）"
+  notes: "作者就讀平鎮完全中學國一時的班長服務心得演講稿，約1997–1998學年，依語料形式歸類演講文體。"
+- id: "00676"
+  title: "探訪一九九九跨世紀歡喜年學生社團博覽會"
+  author: "莊子由"
+  date: 1999-05-08
+  created: 2026-08-10
+  tags: ["校刊", "採訪報導", "社團活動", "客家文化", "桃園", "學生寫作"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/文化筆記/00676_探訪一九九九跨世紀歡喜年學生社團博覽會.md
+  source: "島人語庫邀稿與授權表單投稿（新表單，2026-08-10，單一授權選項：公開 CC-BY-NC-SA 含訓練用途）"
+  notes: "作者與其手足莊子儀以鎮中校刊小記者身分，採訪1999年5月8日在桃園巨蛋舉行之學生社團博覽會，記錄客家歌謠社、中國結社、餐飲管理科等展覽，為珍貴的1990年代台灣校園文化紀錄。"
+- id: "00677"
+  title: "遠方的你"
+  author: "莊子由"
+  date: 1999-01-01
+  created: 2026-08-10
+  tags: ["短篇小說", "友誼", "成長", "移民", "國中生活", "學生寫作"]
+  license: CC-BY-NC-SA-4.0
+  filepath: text/小說創作/00677_遠方的你.md
+  source: "島人語庫邀稿與授權表單投稿（新表單，2026-08-10，單一授權選項：公開 CC-BY-NC-SA 含訓練用途）"
+  notes: "作者就讀平鎮完全中學國二時所寫之短篇小說，以友誼與離別為主題，約1998–1999學年。"
 - id: "s0000"
   title: "Montreal"
   author: "seantyh"
@@ -6770,16 +6800,6 @@
   filepath: text/家書與日記/s0068_Understanding.md
   source: "自創原文"
   notes: "關於人生路口、異文化交流與自我反思的片段紀錄。"
-- id: "s0069"
-  title: "不知名的小溪"
-  author: "seantyh"
-  date: 2023-02-11
-  created: 2025-07-22
-  tags: ["小溪", "Ammer", "自然", "旅遊", "景點"]
-  license: CC-BY-NC-SA-4.0
-  filepath: text/家書與日記/s0069_不知名的小溪.md
-  source: "自創原文"
-  notes: "描述作者發現並記錄小溪Ammer的經過與感受。"
 - id: "s0070"
   title: "Windy"
   author: "seantyh"

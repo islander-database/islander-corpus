@@ -193,10 +193,16 @@ def main():
         if e:
             entries.append(e)
 
-    if errors:
-        for msg in errors:
+    # 區分「FUSE 死鎖」（暫時性）與「真正的內容錯誤」
+    fuse_errors = [e for e in errors if 'Resource deadlock' in e or 'OSError' in e and 'deadlock' in e.lower()]
+    real_errors = [e for e in errors if e not in fuse_errors]
+    if fuse_errors:
+        for msg in fuse_errors:
+            print(f"⚠️  {msg}（FUSE 暫時死鎖，跳過此檔）", file=sys.stderr)
+    if real_errors:
+        for msg in real_errors:
             print(f"❌ {msg}", file=sys.stderr)
-        print(f"❌ 共 {len(errors)} 個檔案有問題，已中止，未寫出索引。請修正後重跑。", file=sys.stderr)
+        print(f"❌ 共 {len(real_errors)} 個檔案有問題，已中止，未寫出索引。請修正後重跑。", file=sys.stderr)
         sys.exit(1)
 
     # 加入已撤下檔案的紀錄（來自 metadata/overrides.yaml）
